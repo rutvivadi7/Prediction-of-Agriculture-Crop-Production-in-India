@@ -25,7 +25,7 @@ This project implements a comprehensive pipeline for predicting crop production 
 <h2>Installation</h2>
 <ul>
     <li>Clone the repository:<br>
-git clone https://github.com/yourusername/crop-prediction-system.git<br>
+git clone https://github.com/rutvivadi7/Prediction-of-Agriculture-Crop-Production-in-India.git<br>
 cd crop-prediction-system
 </li>
     <li>Create and activate a virtual environment:<br>
