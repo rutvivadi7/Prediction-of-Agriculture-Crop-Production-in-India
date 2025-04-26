@@ -53,5 +53,14 @@ pip install -r requirements.txt</li>
     <li>Soil data from the National Bureau of Soil Survey and Land Use Planning</li>
 </ol>
 </ul>
+<h2>Machine Learning Approach</h2>
+<p>The project compares several machine learning algorithms:</p>
+<ul>
+    <li>Linear Regression</li>
+    <li>Support Vector Regression</li>
+    <li>Random Forest Regression</li>
+    <li>Gradient Boosting Regression</li>
+    <li>Neural Networks</li>
+</ul>
 </body>
 </html>
